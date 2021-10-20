@@ -41,7 +41,7 @@
     <ul type= "square">
     <li><b>Writing</b></li> 
     <p>
-    </ul>
+    
     
 
        As writing has been my long-term hobby, I have decided to use this to gain a part time job. Today, I have been actively writing articles as a freelancer for a private company called "Web Factory" for 8 months. The main themes I have conducted my research upon are: 
