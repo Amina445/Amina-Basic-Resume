@@ -1,6 +1,5 @@
 # Amina-Basic-Resume
 
-<!DOCTYPE html>
 <html lang="en"></html>
 <html>
 
@@ -39,8 +38,7 @@
 <hr>
 <h2 style="background-color: thistle; border: 2px solid violet;">My Skills</h2>
 
-<ul type= "square">
-  
+    <ul type= "square">
     <li><b>Writing</b></li> 
     <p>
     </ul>
