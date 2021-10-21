@@ -1,6 +1,6 @@
 # Amina-Basic-Resume
 
-   <!DOCTYPE html>
+    <!DOCTYPE html>
   <html lang="en"></html>
   <html>
 
@@ -18,7 +18,7 @@
   <body>
 
 <hr>
-<center><h2 style="border: 3px solid grey;"><ins>Biography </ins></h2></center>
+<center><h2 style="border: 3px solid grey;"><ins>Biography</ins></h2></center>
 
 <blockquote><center><i>Life begins at then end of your comfort zone, that's why I'm doing this.</i></center></blockquote>
 <center><img src="jaicuko.jpg" alt=" My life in one picture" style=" width:300px;height:400px;" ></center>
