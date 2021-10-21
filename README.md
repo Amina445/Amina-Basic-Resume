@@ -75,7 +75,7 @@
 
 <ul style="list-style-type:square;">
 
-    <li><b>Phone number:</b> <a href=" callto: +38762870632 ">Instant Call</a></li>
+    <li><b>Phone number:</b> +38762870632 </li>
 <br>
 <li><b>Email:</b> <a href=" mailto: basiccamina@gmail.com ">Contact me straight away</a></li>
 <br>
