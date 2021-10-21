@@ -20,7 +20,7 @@
 <center><h2 style="border: 3px solid grey;"><ins>Biography </ins></h2></center>
 
 <blockquote><center><i>Life begins at then end of your comfort zone, that's why I'm doing this. </i></center></blockquote>
-<center><img src="jaicuko.jpg" alt=" My life in one picture" style=" width:300px;height:400px;" ></center>
+<center><img src="/jaicuko.jpg" alt=" My life in one picture" style=" width:300px;height:400px;" ></center>
 <center><figure>Just me and a dog</figure></center>
 <p> I am Amina Basic. I am studying Software Engineering at the University of IUS. I applied for a scholarship and got <del>75%</del> at first, but changing my department decreased my sholarship to <ins>55%</ins>. Aside from that, in my spare time I like to write articles and volunteer for the Red Cross. Writing is my passion. As we are speaking of passion, I love people. Communicating, making new connections is all part of my personality which is necessary in todays world, especially business vise.  </p>
 <hr>
