@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+
 <html>
 
 <head>
@@ -40,7 +41,6 @@
 
 <h2>My Skills</h2>
 
-<ul type:"square;">
   
     <li><b>Writing</b></li> 
 
@@ -67,7 +67,7 @@
     <li><b>Creativity</b></li>
     <li><b>Adiministrative skills</b></li>
 
-     </ul>
+    
 
 <hr>
 
