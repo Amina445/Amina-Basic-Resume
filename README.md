@@ -24,7 +24,7 @@
 <figure>Just me and a dog</figure>
 
 <!-- This is my first section, which is completed -->
-<p> I am Amina Basic. I am studying Software Engineering at the University of IUS. I applied for a scholarship and got <del>75%</del> at first, but changing my department decreased my sholarship to <ins>55%</ins>. Aside from that, in my spare time I like to write articles and volunteer for the Red Cross. Writing is my passion. As we are speaking of passion, I love people. Communicating, making new connections is all part of my personality which is necessary in todays world, especially business vise. </p>
+<p> I am Amina Basic. I am studying Software Engineering at the University of IUS. I applied for a scholarship and got <del>75%</del> at first, but changing my department decreased my sholarship to <ins>55%</ins>. Aside from that, in my spare time I like to <a href="#Skills">write articles</a> and volunteer for the Red Cross. Writing is my passion. As we are speaking of passion, I love people. Communicating, making new connections is all part of my personality which is necessary in todays world, especially business vise. </p>
 <hr>
 <h2>My Education</h2>
 
@@ -39,7 +39,7 @@
 
 <hr>
 
-<h2>My Skills</h2>
+    <a name="Skills"><h2>Skills</h2></a>
 
   
     <li><b>Writing</b></li> 
@@ -75,7 +75,7 @@
 
 <ul style="list-style-type:square;">
 
-    <li><b>Phone number:</b> +38762870632 </li>
+<li><b>Phone number:</b> <a href=" callto: 062870632">+38762870632</a></li>
 <br>
 <li><b>Email:</b> <a href=" mailto: basiccamina@gmail.com ">Contact me straight away</a></li>
 <br>
